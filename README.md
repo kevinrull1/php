@@ -1,9 +1,5 @@
 <?php
-$host = 'd83346.mysql.zonevs.eu';
-$db   = 'd83346_books';
-$user = 'd83346sa355449';
-$pass = 'tusupytusupy';
-$charset = 'utf8mb4';
+
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 $options = [
